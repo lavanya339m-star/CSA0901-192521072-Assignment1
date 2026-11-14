@@ -2,13 +2,12 @@
 ## Campus Smart-Parking System
 
 **Student Name:** LAVANYA M 
+
 **Register Number:**  192521072
-**GitHub Link:**  
+
+**GitHub Link:**  https://github.com/lavanya339m-star/CSA0901-192521072-Assignment1
+
 **Java Version:** JDK 8 or later
-
-> This is a simple student-level explanation. Read the answers, run the programs, and make sure you can explain them during the viva.
-
----
 
 ## Task 1 – Understand the Problem and Identify the Objects
 
